@@ -15,8 +15,8 @@ namespace ConsoleApplication
                     var m_Employee = new Employee();
                     m_Employee.EmployeeKey = 1;
                     m_Employee.EmployeeCode = "EMP";
-                    m_Employee.FirstName = "Greg";
-                    m_Employee.LastName = "LaPorta";
+                    m_Employee.FirstName = "Test";
+                    m_Employee.LastName = "Account";
 
                     Console.WriteLine("Welcome, " + m_Employee.FirstName + " " + m_Employee.LastName);
                     Console.WriteLine("");
